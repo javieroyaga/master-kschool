@@ -1,0 +1,150 @@
+echo holi
+echo holi que tal
+echo %SHELL
+ECHO $SHELL
+echo holi
+echo $TERM
+echo $SHELL
+date
+echo date
+echo $date
+echo $HISTORY
+echo $MIAU
+clasechachi=kschool
+echo $clasechachi
+echo $(date)
+echo "Hoy es es el dia $(date)"
+whoami
+echo 'Hoy es es el dia $(date)'
+echo 'Soy tan felzi\
+que me comería una perdiz\
+'
+echo "Soy tan felzi\
+que me comería una perdiz"
+echo "Soy tan felzi\\
+que me comería una perdiz"
+echo "Me gusta mucho \"100 años de soledad\", es guay"
+echo "uno\ndos"
+echo "uno|tdos"
+echo "uno\tdos"
+echo "C:\\Users"
+"C:\\\Users"
+echo "C:\\\Users"
+echo 'holi'; date
+echo "holi \n date"
+echo "holi \n"; date
+clear
+cat /etc/os-release ç
+cat /etc/os-release
+pwd
+ls
+cat data/README
+cat data/README.MD
+cat data/README.md
+cat data/shell/test_example.txt
+cat data/shell/Test_example.txt
+cat data/shell/Text_example.txt
+cat /etc/os-release
+cd data/shell
+cat Text_exmaple.text
+cat Text_exmaple.ext
+cat Text_exmaple.txt
+cat Text_example.txt
+cd~
+cd
+cat /data
+clear
+ls
+ls -a
+ls -l
+chmod 777 books
+ls -l
+chmod 700 books
+ls-l
+ls -l
+chmod 707 books
+ls -l
+chmod 755 books
+ls -l
+chmod 644 books
+ls -l
+ls -al
+ls -t
+ls -tl
+ls -rtl
+ls -S
+ls -Sl
+mkdir mi_directorio
+touch mi_directorio/nuevo_archivo
+ls -l mi_directorio
+mkdir mi_directorio/dir_2/dir_3
+mkdir -p midirectorio/dir_2/dir_3
+ls mi_direcorio
+ls --help
+mkdir --help
+cp
+mv
+rm
+cp data/shell/Text_example.txt nuevo_ejemplo.txt
+ls
+rm nuevo_ejemplo.txt
+ls
+rm - -ri mi_directorio
+clear
+ls
+mkdir -p dir1/dir2/dir 3
+mkdir first_dir
+ls
+touch first_dir/ new_file
+ls
+touch new_file.txt
+ls
+mv new_file.txt/ first_dir
+mv new_file.txt first_dir/
+ls
+ls first_dir
+chmod first_dir 007
+chmod --help
+chmod new_file.txt 007
+chmod 007 new_file.txt
+chmod 007 first_dir
+ls -l
+mkdir first_dir/dir_2
+chmod 777 first_dir
+pwd
+mkdir first_dir
+touch first_dir/text_file.txt
+ls first_dir
+ls -l first_dir
+chmod 676 first_dir/text_file.txt
+ls -l first_dir
+mkdir first_dir/sub_
+mkdir first_dir/sub_1
+mkdir first_dir/sub_2
+rm -r first_dir/sub_
+cp first_dir/text_file.txt first_dir/sub_1
+mv first_dir/text_filr.txt first_dir/sub_2/text_file.txt.2
+mv first_dir/text_file.txt first_dir/sub_2/text_file.txt.2
+clear
+git
+clear
+mkdir repos
+cd repos
+git config --global user.name "Javier Oyaga"
+git config --global user.email oyaga.javier@gmail.com
+git clone https://github.com/javieroyaga/master-kschool.git
+ls
+cd master-kschool
+ls
+cat README.md
+gitdiff
+git diff
+git add README.md
+git status
+git commit
+git push
+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
+git push
+clear
+sudo apt install gedit
+cp ~/.history .
